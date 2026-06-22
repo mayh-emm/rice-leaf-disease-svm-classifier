@@ -1,0 +1,53 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environment variables and local configuration
+.env
+.env.*
+!.env.example
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project datasets
+RiceLeafsDisease/
+TEST_RICE_IMAGES/
+data/
+datasets/
+
+# Compressed dataset archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# Generated model artifacts
+*.pkl
+*.pickle
+*.joblib
+
+# Temporary and generated outputs
+tmp/
+temp/
+logs/
+*.log
