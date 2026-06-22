@@ -18,6 +18,19 @@ The final dataset used in the notebook contains **2,100 images**, with **350 ima
 - Training set: 1,680 images
 - Test set: 420 images
 
+## Dataset Attribution
+
+- **Dataset name:** Zambali Rice Dataset (Public V1)
+- **Dataset creator/uploader:** Daniel Zachary M. Mercurio
+- **Platform:** Kaggle
+- **Original source:** [https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/gettingintoml/zambali-rice-dataset-v3-1?select=ZAMBALI_RICE_DATASET_V3)
+- **License:** Apache 2.0
+- **Date accessed:** April 24, 2026
+
+The dataset files are not included in this repository. To reproduce the
+project, download the dataset from the original Kaggle source and arrange
+the files according to the folder structure described below.
+
 ## Machine-Learning Pipeline
 
 1. Load image filenames and class labels from the dataset folders.
@@ -82,19 +95,6 @@ rice-leaf-disease-svm-classifier/
 ```
 
 The dataset folders and generated model files are intentionally excluded from the repository.
-
-## Dataset Attribution
-
-- **Dataset name:** Zambali Rice Dataset (Public V1)
-- **Dataset creator/uploader:** Daniel Zachary M. Mercurio
-- **Platform:** Kaggle
-- **Original source:** [https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/gettingintoml/zambali-rice-dataset-v3-1?select=ZAMBALI_RICE_DATASET_V3)
-- **License:** Apache 2.0
-- **Date accessed:** April 24, 2026
-
-The dataset files are not included in this repository. To reproduce the
-project, download the dataset from the original Kaggle source and arrange
-the files according to the folder structure described below.
 
 ## Dataset Setup
 
